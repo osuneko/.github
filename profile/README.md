@@ -1,4 +1,4 @@
-<h1 align="center"><a href="http://datenshi.pw"><img src="https://tesuko.moe/static/nekos.png"></h1>
+<h1 align="center"><a href="http://nekos.cc/"><img src="https://tesuko.moe/static/nekos.png"></h1>
 
 # Welcome
 
