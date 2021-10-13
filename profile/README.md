@@ -1,19 +1,16 @@
-<h1 align="center"><a href="http://datenshi.pw"><img src="https://raw.githubusercontent.com/osu-datenshi/assets/master/logo.png"></h1>
+<h1 align="center"><a href="http://datenshi.pw"><img src="https://tesuko.moe/static/nekos.png"></h1>
 
 # Welcome
 
-DATENSHI is a multi-gaming community server founded in 12 April 2020. We have two games that our community served to their players. There are osu! and Minecraft.
+Nekosu is a private osu! server, featuring multiplayer, PP, a very active community and a development team going strong implementing new features and squashing bugs.
 
-osu! is the first and the largest one community server in Indonesia, we are providing home for players who don't have any 'place' to take shelter
+With almost 2000 users (and growing) theres no better place to begin your relax or autopilot osu! career!
 
-Minecraft, is the best solution for people who tired of clicking circles in osu! and wanted to build or survive in a game.
-
-Our community are filled with amazing people and also the members are very active, that's why DATENSHI is more interesting place, don't hesitate to join us!
+We also have a dedicated community management and development team to ensure you have the best experience possible while playing. 
+ 
+So why not join us today?
 
 # Links
 
-- [GitHub](https://github.com/osu-datenshi)
-- [GitLab](https://gitlab.com/osudatenshi)
-- [Portal](https://datenshi.pw)
-- [osu!](https://osu.datenshi.pw)
-- [Minecraft](https://mc.datenshi.pw)
+- [GitHub](https://github.com/osuneko)
+- [osu!](https://nekos.cc)
