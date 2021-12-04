@@ -1,10 +1,10 @@
-<h1 align="center"><a href="http://nekos.cc/"><img src="https://tesuko.moe/static/nekos.png"></h1>
+<h1 align="center"><a href="http://osutanuki.com/"><img src="https://enersasa.sirv.com/Text-White.png"></h1>
 
 # Welcome
 
-Nekosu is a private osu! server, featuring multiplayer, PP, a very active community and a development team going strong implementing new features and squashing bugs.
+Tanuki is a private osu! server, featuring multiplayer, PP, a very active community and a development team going strong implementing new features and squashing bugs.
 
-With almost 2000 users (and growing) theres no better place to begin your relax or autopilot osu! career!
+With over 2600 users (and growing) theres no better place to begin your relax or autopilot osu! career!
 
 We also have a dedicated community management and development team to ensure you have the best experience possible while playing. 
  
@@ -13,4 +13,4 @@ So why not join us today?
 # Links
 
 - [GitHub](https://github.com/osuneko)
-- [osu!](https://nekos.cc)
+- [osu!](https://osutanuki.com)
