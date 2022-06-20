@@ -1,16 +1,1 @@
-<h1 align="center"><a href="http://osutanuki.com/"><img src="https://enersasa.sirv.com/Text-White.png"></h1>
-
-# Welcome
-
-Tanuki is a private osu! server, featuring multiplayer, PP, a very active community and a development team going strong implementing new features and squashing bugs.
-
-With over 2600 users (and growing) theres no better place to begin your relax or autopilot osu! career!
-
-We also have a dedicated community management and development team to ensure you have the best experience possible while playing. 
- 
-So why not join us today?
-
-# Links
-
-- [GitHub](https://github.com/osuneko)
-- [osu!](https://osutanuki.com)
+TODO: remake this
